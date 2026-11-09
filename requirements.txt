@@ -1,0 +1,7 @@
+Django>=5.1,<6.0
+gunicorn>=22.0
+whitenoise>=6.7
+psycopg[binary]>=3.2
+qrcode[pil]>=8.0
+openpyxl>=3.1
+dj-database-url>=2.2
